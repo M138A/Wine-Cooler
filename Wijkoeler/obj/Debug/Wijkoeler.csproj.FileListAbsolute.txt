@@ -1,0 +1,14 @@
+c:\users\m138a\documents\visual studio 2015\Projects\Wijkoeler\Wijkoeler\bin\Debug\Wijkoeler.exe.config
+c:\users\m138a\documents\visual studio 2015\Projects\Wijkoeler\Wijkoeler\bin\Debug\Wijkoeler.exe
+c:\users\m138a\documents\visual studio 2015\Projects\Wijkoeler\Wijkoeler\bin\Debug\Wijkoeler.pdb
+c:\users\m138a\documents\visual studio 2015\Projects\Wijkoeler\Wijkoeler\obj\Debug\Wijkoeler.csprojResolveAssemblyReference.cache
+c:\users\m138a\documents\visual studio 2015\Projects\Wijkoeler\Wijkoeler\obj\Debug\MainWindow.g.cs
+c:\users\m138a\documents\visual studio 2015\Projects\Wijkoeler\Wijkoeler\obj\Debug\App.g.cs
+c:\users\m138a\documents\visual studio 2015\Projects\Wijkoeler\Wijkoeler\obj\Debug\Wijkoeler_MarkupCompile.cache
+c:\users\m138a\documents\visual studio 2015\Projects\Wijkoeler\Wijkoeler\obj\Debug\Wijkoeler_MarkupCompile.lref
+c:\users\m138a\documents\visual studio 2015\Projects\Wijkoeler\Wijkoeler\obj\Debug\MainWindow.baml
+c:\users\m138a\documents\visual studio 2015\Projects\Wijkoeler\Wijkoeler\obj\Debug\Wijkoeler.g.resources
+c:\users\m138a\documents\visual studio 2015\Projects\Wijkoeler\Wijkoeler\obj\Debug\Wijkoeler.Properties.Resources.resources
+c:\users\m138a\documents\visual studio 2015\Projects\Wijkoeler\Wijkoeler\obj\Debug\Wijkoeler.csproj.GenerateResource.Cache
+c:\users\m138a\documents\visual studio 2015\Projects\Wijkoeler\Wijkoeler\obj\Debug\Wijkoeler.exe
+c:\users\m138a\documents\visual studio 2015\Projects\Wijkoeler\Wijkoeler\obj\Debug\Wijkoeler.pdb
